@@ -7,11 +7,14 @@
 ## Features
 
 - **User-Friendly Interface**: Real Lens offers an intuitive and easy-to-navigate user interface, making it accessible for users of all technical backgrounds. The streamlined design ensures a seamless experience from media upload to result interpretation.
-
+  ![Alt text](Images/GIF.gif)
 - **Multi-Modal Detection**: The system supports detection across three media types:
   - **Image Detection**: Utilizes a ResNet50 model to analyze images for deepfake characteristics.
+  - ![Alt text](Images/image.png)
   - **Video Detection**: Employs a ViT (Vision Transformer) model to scrutinize video frames for signs of manipulation.
+  - ![Alt text](Images/video.png)
   - **Audio Detection**: Uses a Wav2Vec2 model to evaluate audio files for synthetic alterations.
+  - ![Alt text](Images/audio.png)
 
 - **High Accuracy**: Real Lens is built on models with impressive accuracy rates:
   - **Video Detection**: Approximately 92.3% accurate
