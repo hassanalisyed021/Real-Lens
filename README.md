@@ -31,7 +31,7 @@
 To get started with Real Lens, clone the repository from GitHub and follow the setup instructions provided in the documentation.
 
 ```bash
-git clone https://github.com/yourusername/reallens.git
+https://github.com/hassanalisyed021/Real-Lens.git
 ```
 
 ## Conclusion
