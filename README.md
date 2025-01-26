@@ -38,6 +38,3 @@ https://github.com/hassanalisyed021/Real-Lens.git
 
 Real Lens is a powerful tool in the fight against deepfake technology, offering reliable detection capabilities with a focus on user accessibility. Whether you're a developer, researcher, or organization, Real Lens provides the tools you need to detect and analyze deepfakes effectively.
 
----
-
-Feel free to customize the GitHub link and any other details specific to your project setup!
